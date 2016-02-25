@@ -1,4 +1,4 @@
-Linting is like spell check for code. Now that you have set up linters for html/css/js, you can focus more on actual coding rather than finding the typos.
+Once you finish the setup, you will be able to focus more on the code, not the typos.
 
 ### How to autocomplete
 

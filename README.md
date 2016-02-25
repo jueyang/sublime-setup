@@ -2,35 +2,35 @@ This doucment walks throught the setup of **Sublime Text 3** for basic front-end
 
 ### Index
 
-#### Intro
-#### Setup Prerequisites
-#### Install Package Control
-#### Navigate with package Control
-#### Install `SublimeLinter`
-#### Install `SublimeLinter` Dependencies
-#### Configure global user settings
-#### Configure `SublimeLinter` user settings
+#### 1. [Intro](https://github.com/jueyang/sublime-setup#why-setting-up-your-sublime-text)
+#### 2. [Setup Prerequisites](https://github.com/jueyang/sublime-setup#setup-prerequisites-1)
+#### 3. [Install Package Control](https://github.com/jueyang/sublime-setup#install-package-control-for-sublime-text)
+#### 4. [Navigate with package Control](https://github.com/jueyang/sublime-setup#navigate-with-package-control-1)
+#### 5. [Install `SublimeLinter`](https://github.com/jueyang/sublime-setup#install-sublimelinter-via-package-control)
+#### 6. [Install `SublimeLinter` Dependencies](https://github.com/jueyang/sublime-setup#install-sublimelinter-dependencies-via-package-control)
+#### 7. [Configure global user settings](https://github.com/jueyang/sublime-setup#configure-sublime-text-global-user-settings)
+#### 8. [Configure `SublimeLinter` user settings](https://github.com/jueyang/sublime-setup#configure-sublimelinter-user-settings-1)
+#### 9. [Done!](https://github.com/jueyang/sublime-setup#done-1)
 
 ### Why setting up your Sublime Text
 
 This setup helps you to establish good coding habits, mainly:
 
-- a 2-space indent
+- autocomplete with key words
+- a 2-space indentation (hard tab)
 
 It also sets up three linters for html, css, and js, respectively. Linters are spellcheck for code. With linters in place, you can spend more time on acutal coding, and less on finding typos.
 
-After you are done with the steps, consult [appendix0]() to see how everything works.
-
 ### Check Sublime Text version
 
-You can check your Sublime Text version by going to `Sublime Text` --> `About Sublime Text`. If you see `Stable Channel. Build 3xxx` you are good. Otherwise download the latest Sublime Text on [its website](http://www.sublimetext.com/). (If you'd rather update it with `brew cask`, consult [appendix1]().)
+You can check your Sublime Text version by going to `Sublime Text` --> `About Sublime Text`. If you see `Stable Channel. Build 3xxx` you are good. Otherwise download the latest Sublime Text on [its website](http://www.sublimetext.com/). (If you'd rather update it with `brew cask`, consult [appendix1](https://github.com/jueyang/sublime-setup/blob/master/appendix1.md).)
 
 
 ![](http://cl.ly/2P0n2a283v2B/Screen%20Shot%202016-02-24%20at%204.40.22%20PM.png)
 
 ### Setup Prerequisites
 
-Run the folloing in iTerm. If you wonder what these steps mean, consult [appendix2]().
+Run the folloing in iTerm. If you wonder what these steps mean, consult [appendix2](https://github.com/jueyang/sublime-setup/blob/master/appendix2.md).
 
 - `brew update`
 - `brew install node`
@@ -74,7 +74,7 @@ This includes whether or not you want autocomplete, tab completion, etc.
 
 ![](http://cl.ly/0V290u1j271Q/Screen%20Shot%202016-02-24%20at%201.38.03%20PM.png)
 
-This opens a file called `Preferences.sublime-settings`. Copy [the example]() to start. You can add or substract settings anytime.
+This opens a file called `Preferences.sublime-settings`. Copy [the example](https://github.com/jueyang/sublime-setup/blob/master/Preferences.sublime-settings) to start. You can add or substract settings anytime.
 
 ### Configure `SublimeLinter` user settings
 
@@ -84,4 +84,8 @@ This makes use of all the packages you just installed.
 
 ![](http://cl.ly/1p1h1x1b160A/Screen%20Shot%202016-02-24%20at%201.38.13%20PM.png)
 
-This opens another setting file named `SublimeLinter.sublime-settings`. Copy [the example]() in the gist to start.
+This opens another setting file named `SublimeLinter.sublime-settings`. Copy [the example](https://github.com/jueyang/sublime-setup/blob/master/SublimeLinter.sublime-settings) to start.
+
+### Done!
+
+After you are done with the steps, consult [appendix3](https://github.com/jueyang/sublime-setup/blob/master/appendix0.md) to see how everything works.
