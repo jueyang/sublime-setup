@@ -1,4 +1,4 @@
-This doucment walks throught the setup of **Sublime Text 3** for basic front-end development.
+This doucment walks you through the setup of **Sublime Text 3** for basic front-end development (html/css/js).
 
 ### Index
 
@@ -10,16 +10,16 @@ This doucment walks throught the setup of **Sublime Text 3** for basic front-end
 #### 6. [Install `SublimeLinter` Dependencies](https://github.com/jueyang/sublime-setup#install-sublimelinter-dependencies-via-package-control)
 #### 7. [Configure global user settings](https://github.com/jueyang/sublime-setup#configure-sublime-text-global-user-settings)
 #### 8. [Configure `SublimeLinter` user settings](https://github.com/jueyang/sublime-setup#configure-sublimelinter-user-settings-1)
-#### 9. [Done!](https://github.com/jueyang/sublime-setup#done-1)
+#### 9. [Done!](https://github.com/jueyang/sublime-setup#done)
 
 ### Why setting up your Sublime Text
 
 This setup helps you to establish good coding habits, mainly:
 
-- autocomplete with key words
+- auto-complete with key words
 - a 2-space indentation (hard tab)
 
-It also sets up three linters for html, css, and js, respectively. Linters are spellcheck for code. With linters in place, you can spend more time on acutal coding, and less on finding typos.
+It also sets up three linters for html, css, and js, respectively. **Linters are the spell check for code**. With linters in place, you can spend more time on acutal coding, and less on finding typos.
 
 ### Check Sublime Text version
 
@@ -74,7 +74,7 @@ This includes whether or not you want autocomplete, tab completion, etc.
 
 ![](http://cl.ly/0V290u1j271Q/Screen%20Shot%202016-02-24%20at%201.38.03%20PM.png)
 
-This opens a file called `Preferences.sublime-settings`. Copy [the example](https://github.com/jueyang/sublime-setup/blob/master/Preferences.sublime-settings) to start. You can add or substract settings anytime.
+This opens a file called `Preferences.sublime-settings`. Copy [the example](https://github.com/jueyang/sublime-setup/blob/master/Preferences.sublime-settings) to start. Remeber to save. You can add or substract settings anytime.
 
 ### Configure `SublimeLinter` user settings
 
@@ -84,7 +84,7 @@ This makes use of all the packages you just installed.
 
 ![](http://cl.ly/1p1h1x1b160A/Screen%20Shot%202016-02-24%20at%201.38.13%20PM.png)
 
-This opens another setting file named `SublimeLinter.sublime-settings`. Copy [the example](https://github.com/jueyang/sublime-setup/blob/master/SublimeLinter.sublime-settings) to start.
+This opens another setting file named `SublimeLinter.sublime-settings`. Copy [the example](https://github.com/jueyang/sublime-setup/blob/master/SublimeLinter.sublime-settings) to start. Remember to save.
 
 ### Done!
 
