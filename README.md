@@ -10,7 +10,7 @@ This doucment walks you through the setup of **Sublime Text 3** for basic front-
 #### 6. [Install `SublimeLinter` Dependencies](https://github.com/jueyang/sublime-setup#install-sublimelinter-dependencies-via-package-control)
 #### 7. [Configure global user settings](https://github.com/jueyang/sublime-setup#configure-sublime-text-global-user-settings)
 #### 8. [Configure `SublimeLinter` user settings](https://github.com/jueyang/sublime-setup#configure-sublimelinter-user-settings-1)
-#### 9. [Done!](https://github.com/jueyang/sublime-setup#done)
+#### 9. [Check out your new super power](https://github.com/jueyang/sublime-setup#done)
 
 ### Why setting up your Sublime Text
 
