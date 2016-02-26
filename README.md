@@ -40,7 +40,7 @@ Run the folloing in iTerm. If you wonder what these steps mean, consult [appendi
 
 ### Install Package Control for Sublime Text
 
-Follow [these instructions]((https://packagecontrol.io/installation#st3)).
+Follow [these instructions](https://packagecontrol.io/installation#st3).
 
 ### Navigate with Package Control
 
